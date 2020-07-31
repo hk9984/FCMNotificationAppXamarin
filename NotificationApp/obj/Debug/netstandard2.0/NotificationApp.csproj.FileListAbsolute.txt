@@ -1,0 +1,14 @@
+C:\Users\hardi\source\repos\NotificationApp\NotificationApp\bin\Debug\netstandard2.0\NotificationApp.deps.json
+C:\Users\hardi\source\repos\NotificationApp\NotificationApp\bin\Debug\netstandard2.0\NotificationApp.dll
+C:\Users\hardi\source\repos\NotificationApp\NotificationApp\bin\Debug\netstandard2.0\ref\NotificationApp.dll
+C:\Users\hardi\source\repos\NotificationApp\NotificationApp\bin\Debug\netstandard2.0\NotificationApp.pdb
+C:\Users\hardi\source\repos\NotificationApp\NotificationApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hardi\source\repos\NotificationApp\NotificationApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\hardi\source\repos\NotificationApp\NotificationApp\obj\Debug\netstandard2.0\NotificationApp.AssemblyInfoInputs.cache
+C:\Users\hardi\source\repos\NotificationApp\NotificationApp\obj\Debug\netstandard2.0\NotificationApp.AssemblyInfo.cs
+C:\Users\hardi\source\repos\NotificationApp\NotificationApp\obj\Debug\netstandard2.0\NotificationApp.csproj.CoreCompileInputs.cache
+C:\Users\hardi\source\repos\NotificationApp\NotificationApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\hardi\source\repos\NotificationApp\NotificationApp\obj\Debug\netstandard2.0\NotificationApp.dll
+C:\Users\hardi\source\repos\NotificationApp\NotificationApp\obj\Debug\netstandard2.0\ref\NotificationApp.dll
+C:\Users\hardi\source\repos\NotificationApp\NotificationApp\obj\Debug\netstandard2.0\NotificationApp.pdb
+C:\Users\hardi\source\repos\NotificationApp\NotificationApp\obj\Debug\netstandard2.0\NotificationApp.csprojAssemblyReference.cache
